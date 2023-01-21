@@ -1,3 +1,36 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCiDJHyG8VAkJ1t5SQ6LPSypRoIZ6tf95uaCsXEUV+0xLsHS2bvu
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSDk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJhZkoaHGQ=
+::ZQ05rAF9IBncCkqN+0xwdVsFAlXMbAs=
+::ZQ05rAF9IAHYFVzEqQIEIB57XAGMHXuqFdU=
+::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
+::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
+::cRolqwZ3JBvQF1fEqQIdOhlYTQeJZiuODrAz+O31zvqXsS0=
+::dhA7uBVwLU+EWHSW9k4xKxAUdQuXKH64A9U=
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATE100gMQldSwyWfCOZT/Ux+ur37umM4nQSQfYqeoqAmpWCLKAh40LsYYVt5H9JndkaCR8WHg==
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRml9lA1aBhBTQiTKWK/FPUd+OTy7OuEq+7OWqI+dM/S1KeaIe4H7wSE
+::Zh4grVQjdCmDJGyX8VAjFD5WSRbCGGqsD7EgzO3o5P6IsnEpXOd/V5/e1PSvMPAA1nHscNYCxn9U2OocHAgYZkH5IAosrA4=
+::YB416Ek+ZW8=
+::
+::
+::978f952a14a936cc963da21a135fa983
 ﻿::[Bat To Exe Converter]
 ::
 ::YAwzoRdxOk+EWAjk
@@ -50,7 +83,7 @@ REM BFCPEVERCOPYRIGHT= Copyright (C) Mrblack's Youtube; All rights Reserved
 REM BFCPEOPTIONEND
 @ECHO ON
 @echo off
-title Mrblack: The Open Apps (V1.1)
+title Mrblack: The Open Apps (V1.1.2)
 color e
 mode 105,55
 :inicio
